@@ -8,7 +8,7 @@ Usage:
 
 Download the PowerShell script [Here](blob/master/download_firefox.ps1)
 
-1.	Download the script to the node(s) that you want to use it on.
+1.	[Download the script to the node(s) that you want to use it on.](https://raw.githubusercontent.com/dimacus/DownloadFirefoxScript/master/download_firefox.ps1)
 2.	Open Powershell as Administrator. (You do not have to use it as Administrator but will save trouble of dealing with multiple permission pop-ups)
 3.	Make sure Powershell is allowed to execute scripts. This command will allow any script to be executed on the node Set-ExecutionPolicy Unrestricted
 4.	Type in following command in Powershell path_to_script\download_firefox.ps1 –version XX
